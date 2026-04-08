@@ -186,5 +186,5 @@ Focusing on **funnel efficiency and AI-guided discovery** enables sustainable gr
 
 ## **Author**
 
-**Priyanka Lakra**  
-**Data Analyst | Business-Focused Analytics**
+**Aakash Jaiswal**  
+**Data Analyst**
